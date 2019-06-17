@@ -1,3 +1,5 @@
+import os
+
 def number_files(dir_path):
     """
     Numbers all files in an arbitrary directory
